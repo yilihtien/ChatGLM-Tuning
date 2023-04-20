@@ -101,7 +101,7 @@ python finetune.py \
 
 ### 使用预训练好的LoRA
 
-参考 [examples/infer_pretrain.ipynb](https://colab.research.google.com/github/mymusise/ChatGLM-Tuning/blob/master/examples/infer_pretrain.ipynb)
+参考 [examples/infer_pretrain.ipynb](https://colab.research.google.com/github/yilihtien/ChatGLM-Tuning/blob/master/examples/infer_pretrain.ipynb)
 
 
 # TODO:
